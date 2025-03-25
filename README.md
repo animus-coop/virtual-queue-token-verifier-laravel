@@ -8,7 +8,7 @@ SDK for verifying virtual queue tokens on Laravel projects.
 
 1. Add the package to your Laravel project:
    ```bash
-   composer require virtual-queue/token-verifier
+   composer require virtual-queue/token-verifier-laravel
    ```
 
 2. Publish the configuration file:
